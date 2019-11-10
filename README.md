@@ -10,3 +10,5 @@ This script comes in 2 versions for both ShiVa 1.9.2 and ShiVa 2.0. The _5x vers
 - Your target fps is set through this.nFPSTarget ( ).
 
 The script is in an experimental stage, as ShiVa 1.9.2 does not support features like offscreen Anti Aliasing and ShiVa 2.0 beta currently has problems with its frame timing routines. Once exported, it should work well though.
+
+MIT license for code.
